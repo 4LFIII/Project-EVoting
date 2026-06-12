@@ -1,0 +1,62 @@
+[
+    {
+        "id": "PM001",
+        "nama": "Ayu Rahayu",
+        "jurusan": "SI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM002",
+        "nama": "Budi Santoso",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM003",
+        "nama": "Citra Dewi",
+        "jurusan": "MI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM004",
+        "nama": "Dian Pratama",
+        "jurusan": "SI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM005",
+        "nama": "Eka Putra",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM006",
+        "nama": "Fajar Nugroho",
+        "jurusan": "MI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM007",
+        "nama": "Gita Sari",
+        "jurusan": "SI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM008",
+        "nama": "Hendra Kusuma",
+        "jurusan": "TI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM009",
+        "nama": "Indah Lestari",
+        "jurusan": "MI",
+        "sudah_memilih": false
+    },
+    {
+        "id": "PM010",
+        "nama": "Joko Widodo",
+        "jurusan": "SI",
+        "sudah_memilih": false
+    }
+]

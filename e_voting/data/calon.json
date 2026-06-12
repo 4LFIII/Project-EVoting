@@ -1,0 +1,38 @@
+[
+    {
+        "id": "CL001",
+        "nama": "Rizky Aditya",
+        "jurusan": "Teknik Informatika",
+        "visi": "Mewujudkan organisasi mahasiswa yang inovatif, inklusif, dan berdampak nyata bagi seluruh civitas akademika.",
+        "misi": [
+            "Meningkatkan program pengembangan soft skill dan hard skill mahasiswa",
+            "Membangun komunikasi yang transparan antara mahasiswa dan pihak kampus",
+            "Mengadakan kegiatan sosial dan pengabdian masyarakat secara rutin"
+        ],
+        "jumlah_suara": 0
+    },
+    {
+        "id": "CL002",
+        "nama": "Siti Nurhaliza",
+        "jurusan": "Sistem Informasi",
+        "visi": "Membangun organisasi mahasiswa yang solid, profesional, dan mampu menjadi wadah aspirasi seluruh mahasiswa.",
+        "misi": [
+            "Membentuk unit kegiatan mahasiswa yang beragam dan berkualitas",
+            "Memperkuat jaringan alumni untuk mendukung karir mahasiswa",
+            "Menciptakan lingkungan kampus yang nyaman dan kondusif"
+        ],
+        "jumlah_suara": 0
+    },
+    {
+        "id": "CL003",
+        "nama": "Ahmad Fauzi",
+        "jurusan": "Manajemen Informatika",
+        "visi": "Menciptakan generasi mahasiswa yang berkarakter, berprestasi, dan siap menghadapi tantangan global.",
+        "misi": [
+            "Mengembangkan program mentoring dan scholarship untuk mahasiswa berprestasi",
+            "Membangun ekosistem startup dan kewirausahaan di lingkungan kampus",
+            "Meningkatkan partisipasi mahasiswa dalam kompetisi tingkat nasional dan internasional"
+        ],
+        "jumlah_suara": 0
+    }
+]
